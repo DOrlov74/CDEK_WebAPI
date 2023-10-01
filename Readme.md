@@ -11,7 +11,7 @@ Application uses API of the CDEK transport company to calculate delivery price.
 
 The REST API to the app is described below.
 
-### Get list of Games
+### Get delivery price of a parcel
 
 `GET api/Delivery/`
 
